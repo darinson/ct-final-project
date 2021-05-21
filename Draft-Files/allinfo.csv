@@ -1,0 +1,660 @@
+,Unnamed: 0,company_name,ceo,founded,size,revenue,industry
+0,0,Imperfect Foods,Philip Behn,2015,"1001 to 5,000",less than $1M (USD),Manufacturing
+1,1,Jellyfish,-1,2005,51 to 200,$5M to $25M (USD),Restaurants & Food Service
+2,2,LONGEVITY PARTNERS,-1,-1,11 to 50,-1,-1
+3,3,"Amazon Web Services, Inc.",-1,-1,-1,-1,Information Technology
+4,4,Schneider Electric,Jean-Pascal Tricoire,-1,"more than 10,000",more than $10B (USD),"Energy, Mining & Utilities"
+5,5,Central Intelligence Agency,David Cohen,1947,"more than 10,000",-1,Government & Public Administration
+6,6,Smith Seckman Reid,-1,1968,"501 to 1,000",$25M to $100M (USD),-1
+7,7,Georgia Tech,-1,1885,"5,001 to 10,000",$1B to $5B (USD),Education
+8,8,Gedeon GRC Consulting,-1,-1,-1,-1,-1
+9,9,California State University,-1,-1,-1,-1,-1
+10,10,"World Wide Technology, Inc.",-1,-1,-1,-1,-1
+11,11,Live Nation,Michael Rapino,2005,"more than 10,000",$5B to $10B (USD),Media & Communication
+12,12,Descartes Labs,-1,2014,11 to 50,less than $1M (USD),-1
+13,13,Morgan Stanley,James Gorman ,1935,"more than 10,000",more than $10B (USD),Financial Services
+14,14,HP,Enrique Lores,1965,"more than 10,000",more than $10B (USD),Manufacturing
+15,15,Luther College,-1,1865,"501 to 1,000",$25M to $100M (USD),Education
+16,16,Strategic Energy Innovations,-1,-1,11 to 50,$1M to $5M (USD),Nonprofit & NGO
+17,17,Los Angeles Pacific University,"John C. Reynolds, Ph.D.",2010,201 to 500,-1,Education
+18,18,"JPMorgan Chase Bank, N.A.",Jamie Dimon,1799,"more than 10,000",more than $10B (USD),Financial Services
+19,19,Luxoft,-1,2000,"more than 10,000",$100M to $500M (USD),Information Technology
+20,20,Amazon.com Services LLC,Jeff Bezos,1994,"more than 10,000",more than $10B (USD),Information Technology
+21,21,AmeriCorps,Barbara Stewart,-1,"1001 to 5,000",-1,Government & Public Administration
+22,22,M&T Bank,Rene Jones,1856,"more than 10,000",$5B to $10B (USD),Financial Services
+23,23,Lucid Motors,Peter Rawlinson,2007,"1001 to 5,000",$5M to $25M (USD),Automotive
+24,24,Underwriters Laboratories Inc.,Jennifer Scanlon,1894,"more than 10,000",$1B to $5B (USD),Security & Protective
+25,25,Société Générale,-1,1864,"more than 10,000",more than $10B (USD),Financial Services
+26,26,Durham County,-1,-1,51 to 200,$1M to $5M (USD),Government & Public Administration
+27,27,The Trium Group,-1,-1,11 to 50,$1M to $5M (USD),-1
+28,28,Netflix,Reed Hastings,1997,"5,001 to 10,000",more than $10B (USD),Media & Communication
+29,29,The Boston Beer Company,Dave Burwick,1984,"1001 to 5,000",-1,Food & Beverage Manufacturing
+30,30,Tesla,Elon Musk,2003,"more than 10,000",$5B to $10B (USD),Manufacturing
+31,31,Jellyfish,-1,2005,51 to 200,$5M to $25M (USD),Restaurants & Food Service
+32,32,Nature's Remedy,-1,-1,-1,-1,-1
+33,33,Daimler,-1,1942,"more than 10,000",more than $10B (USD),Automotive
+34,0,EME Consulting Engineering Group,-1,-1,-1,-1,-1
+35,1,The Port Authority of New York and New Jersey,-1,1921,"5,001 to 10,000",$1B to $5B (USD),Transportation & Logistics
+36,2,Indian Nations Council of Governments (INCOG),-1,-1,-1,-1,-1
+37,3,Universal Leaf Tobacco Co. Inc.,-1,-1,-1,-1,-1
+38,4,Los Angeles Pacific University,"John C. Reynolds, Ph.D.",2010,201 to 500,-1,Education
+39,5,"Studio School - Los Angeles, CA",-1,-1,-1,-1,-1
+40,6,American Electric Power,-1,1906,"more than 10,000",more than $10B (USD),"Energy, Mining & Utilities"
+41,7,BD,Tom Polen ,1897,"more than 10,000",more than $10B (USD),Healthcare
+42,8,Microsoft,Satya Nadella,1975,"more than 10,000",more than $10B (USD),Information Technology
+43,9,World Wildlife Fund,Carter Roberts,1990,201 to 500,$100M to $500M (USD),Nonprofit & NGO
+44,10,Institute for Sustainable Communities,-1,1991,11 to 50,$5M to $25M (USD),-1
+45,11,The Boston Beer Company,Dave Burwick,1984,"1001 to 5,000",-1,Food & Beverage Manufacturing
+46,12,Netflix,Reed Hastings,1997,"5,001 to 10,000",more than $10B (USD),Media & Communication
+47,13,University of Michigan,Mark Schlissel,1817,"more than 10,000",$5B to $10B (USD),Education
+48,14,Rockline Industries Inc,-1,1976,"1001 to 5,000",$100M to $500M (USD),Manufacturing
+49,15,ERM Group,-1,1971,"1001 to 5,000",$100M to $500M (USD),Management & Consulting
+50,16,Epsten Group,-1,-1,-1,-1,-1
+51,17,AmeriCorps,Barbara Stewart,-1,"1001 to 5,000",-1,Government & Public Administration
+52,18,Miller Coors,Gavin Hattersley,1774,"more than 10,000",$1B to $5B (USD),Manufacturing
+53,19,L'Oreal,Jean Paul Agon,1909,"more than 10,000",more than $10B (USD),Beauty & Wellness
+54,20,Aerion Corporation,-1,2002,11 to 50,less than $1M (USD),Aerospace & Defense
+55,21,Institutional Shareholder Services,-1,1985,201 to 500,$25M to $100M (USD),-1
+56,22,Verdani Partners,Daniele Horton,-1,11 to 50,$1M to $5M (USD),Management & Consulting
+57,23,Uponor,-1,-1,"1001 to 5,000",$1B to $5B (USD),Manufacturing
+58,24,Missouri Botanical Garden,-1,1859,201 to 500,$25M to $100M (USD),-1
+59,25,Strategic Energy Innovations,-1,-1,11 to 50,$1M to $5M (USD),Nonprofit & NGO
+60,26,CR&R Inc,-1,-1,"1001 to 5,000",$100M to $500M (USD),"Energy, Mining & Utilities"
+61,27,L'Oreal,Jean Paul Agon,1909,"more than 10,000",more than $10B (USD),Beauty & Wellness
+62,28,CEMEX,-1,2002,"5,001 to 10,000",$1B to $5B (USD),Construction & Facilities Services
+63,29,Textron Specialized Vehicles,-1,1921,"501 to 1,000",$100M to $500M (USD),Manufacturing
+64,0,ALDI,-1,-1,"more than 10,000",more than $10B (USD),Retail & Wholesale
+65,1,Association of Independents in Radio (AIR),-1,-1,-1,-1,Civic & Social Services
+66,2,Microsoft,Satya Nadella,1975,"more than 10,000",more than $10B (USD),Information Technology
+67,3,Green Seal,-1,1989,less than 10,$1M to $5M (USD),-1
+68,4,Jellyfish,-1,-1,-1,-1,-1
+69,5,Nature's Remedy,-1,-1,-1,-1,Drug & Health Stores
+70,6,Daimler,-1,1942,"more than 10,000",more than $10B (USD),Automotive
+71,7,Alliance for Community Empowerment,-1,-1,11 to 50,-1,Civic & Social Services
+72,8,Student Conservation Association,Jaime Berman Matyas,1957,51 to 200,$25M to $100M (USD),Organization
+73,9,Above Green,-1,-1,less than 10,-1,-1
+74,10,Tom's of Maine,-1,2006,51 to 200,$25M to $100M (USD),-1
+75,11,"Home Innovation Research Labs, Inc.",-1,-1,-1,-1,-1
+76,12,Onward Energy,-1,-1,-1,-1,-1
+77,13,"Brooks Sports, Inc",Jim Weber,1914,201 to 500,$100M to $500M (USD),Retail & Wholesale
+78,14,Loanpal,Hayes Barnard,2014,"501 to 1,000",-1,Financial Services
+79,15,"Shenandoah Valley Organic, LLC",-1,-1,-1,-1,-1
+80,16,1502 Candle Co.,-1,-1,-1,-1,Consumer Product Manufacturing
+81,17,ima Design,-1,-1,-1,-1,-1
+82,18,SCS Global Services,-1,1984,51 to 200,-1,-1
+83,19,Smith Seckman Reid,-1,1968,"501 to 1,000",$25M to $100M (USD),-1
+84,20,Insulet Corporation,Shacey Petrovic,2000,"501 to 1,000",$100M to $500M (USD),Pharmaceutical & Biotechnology
+85,21,Rivian Automotive,-1,2009,-1,-1,Vehicle Manufacturing
+86,22,UCLA,-1,1919,"1001 to 5,000",$500M to $1B (USD),Education
+87,23,Converse,Davide Grasso,1908,201 to 500,$100M to $500M (USD),Retail & Wholesale
+88,24,"City of Naples, FL",-1,-1,-1,-1,-1
+89,25,Neiman Marcus,Geoffroy Van Raemdonck,1907,"1001 to 5,000",more than $10B (USD),Retail & Wholesale
+90,26,Vox Global,-1,-1,51 to 200,-1,Advertising & Public Relations
+91,27,Benson Hill,-1,-1,-1,-1,-1
+92,28,Concurrent Technologies Corporation,-1,1987,"501 to 1,000",$100M to $500M (USD),Aerospace & Defense
+93,29,Burns & McDonnell,-1,1898,"5,001 to 10,000",$1B to $5B (USD),Construction & Facilities Services
+94,30,Danone,-1,1919,"more than 10,000",more than $10B (USD),Manufacturing
+95,31,ENGIE North America Inc.,Catherine MacGregor,1995,"more than 10,000",more than $10B (USD),"Energy, Mining & Utilities"
+96,32,Rezilyens LLC,-1,-1,-1,-1,Information Technology
+97,33,GSD&M,-1,-1,"501 to 1,000",$25M to $100M (USD),Media & Communication
+98,34,FMC Corporation,-1,1883,"1001 to 5,000",$1B to $5B (USD),"Energy, Mining & Utilities and manufacturing"
+99,35,"Global Facility Solutions, LLC",-1,-1,11 to 50,$1M to $5M (USD),-1
+100,36,The Coffee Bean & Tea Leaf,-1,1963,"1001 to 5,000",$100M to $500M (USD),Restaurants & Food Service
+101,37,Cooper Carry,-1,-1,-1,-1,-1
+102,38,US Surface Transportation Board,-1,-1,-1,-1,-1
+103,39,ERM Group,-1,1971,"1001 to 5,000",$100M to $500M (USD),Management & Consulting
+104,40,RE Tech Advisors,-1,-1,11 to 50,-1,-1
+105,41,World Learning,-1,1932,201 to 500,$100M to $500M (USD),Nonprofit & NGO
+106,42,"Land O’Lakes, Inc.",-1,-1,-1,-1,-1
+107,43,Strategic Energy Innovations,-1,-1,11 to 50,$1M to $5M (USD),Nonprofit & NGO
+108,44,ORAU,-1,-1,"501 to 1,000",-1,Nonprofit & NGO
+109,45,Virgin Hyperloop,-1,-1,-1,-1,-1
+110,46,New Seasons Market,Forrest Hoffmaster,1999,"1001 to 5,000",$100M to $500M (USD),Retail & Wholesale
+111,47,Lion Electric,-1,-1,51 to 200,-1,Construction & Facilities Services
+112,48,Beyond Meat,-1,2009,less than 10,$1M to $5M (USD),Catering & Food Service Contractors
+113,49,SC Distributors,-1,-1,51 to 200,-1,-1
+114,50,US Architect of the Capitol,-1,-1,-1,-1,-1
+115,51,Microsoft,Satya Nadella,1975,"more than 10,000",more than $10B (USD),Information Technology
+116,52,State of South Carolina,Henry McMaster,1788,"more than 10,000",-1,Government & Public Administration
+117,53,Unity College,-1,-1,51 to 200,$5M to $25M (USD),Education
+118,54,Common Ground Food Co-op,-1,-1,-1,-1,-1
+119,55,Walmart,Doug McMillon,1962,"more than 10,000",more than $10B (USD),Retail & Wholesale
+120,56,The Trium Group,-1,-1,11 to 50,$1M to $5M (USD),-1
+121,0,Microsoft,Satya Nadella,1975,"more than 10,000",more than $10B (USD),Information Technology
+122,1,Michigan Technological University,-1,1885,"1001 to 5,000",$100M to $500M (USD),Education
+123,2,Purdue University,-1,1869,"more than 10,000",$1B to $5B (USD),Education
+124,3,"Eastern Research Group, Inc.",-1,-1,-1,-1,-1
+125,4,Nu Skin,-1,-1,-1,-1,Retail & Wholesale
+126,5,BuroHappold Engineering,Neil Squibbs,1976,"1001 to 5,000",$100M to $500M (USD),Construction & Facilities Services
+127,6,Apple,Tim Cook,1976,"more than 10,000",more than $10B (USD),Manufacturing
+128,7,"The Cadmus Group, Inc.",-1,-1,-1,-1,-1
+129,8,Sound Agriculture,-1,-1,-1,-1,Crop Production
+130,9,RPS Group,John Douglas,1970,"5,001 to 10,000",$500M to $1B (USD),Construction & Facilities Services
+131,10,National Sustainable Agriculture Coalition,-1,-1,-1,-1,-1
+132,11,University of MO-Columbia,-1,-1,-1,-1,-1
+133,12,L'Oreal,Jean Paul Agon,1909,"more than 10,000",more than $10B (USD),Beauty & Wellness
+134,13,AECOM,Michael S. Burke,2011,"more than 10,000",more than $10B (USD),Construction & Facilities Services
+135,14,Goby Inc,-1,-1,-1,-1,-1
+136,15,State of South Carolina,Henry McMaster,1788,"more than 10,000",-1,Government & Public Administration
+137,16,Aspiration Partners,-1,-1,-1,-1,-1
+138,17,The Building People,Lawrence Melton - ,2012,201 to 500,$25M to $100M (USD),Government & Public Administration
+139,18,Conde Nast,-1,1909,"1001 to 5,000",-1,Media & Communication
+140,19,University of California - Irvine,-1,1965,"more than 10,000",$1B to $5B (USD),Education
+141,20,GSK,Emma Walmsley,1830,"more than 10,000",more than $10B (USD),Healthcare
+142,21,Levi Strauss & Co.,-1,1853,"more than 10,000",$1B to $5B (USD),Retail & Wholesale
+143,22,SC Distributors,-1,-1,51 to 200,-1,-1
+144,23,HGA,-1,-1,"501 to 1,000",$100M to $500M (USD),Construction & Facilities Services
+145,24,PPG Industries,Michael H. McGarry,1883,"more than 10,000",more than $10B (USD),Manufacturing
+146,25,H&M,Helena Helmersson,1947,"more than 10,000",more than $10B (USD),Retail & Wholesale
+147,26,Verdani Partners,Daniele Horton,-1,11 to 50,$1M to $5M (USD),Management & Consulting
+148,27,City of Maitland,-1,-1,"501 to 1,000",-1,Government & Public Administration
+149,28,Mars,Grant F. Reid,1911,"more than 10,000",more than $10B (USD),Manufacturing
+150,29,State of Tennessee,-1,-1,"more than 10,000",$1M to $5M (USD),Government & Public Administration
+151,30,AmeriCorps,Barbara Stewart,-1,"1001 to 5,000",-1,Government & Public Administration
+152,31,FIGS,-1,2013,51 to 200,-1,Retail & Wholesale
+153,32,Accenture,Julie Sweet,1989,"more than 10,000",more than $10B (USD),Information Technology
+154,33,AECOM,Michael S. Burke,2011,"more than 10,000",more than $10B (USD),Construction & Facilities Services
+155,34,SCS Global Services,-1,1984,51 to 200,-1,-1
+156,35,Allstate,Thomas J. Wilson II,1931,"more than 10,000",more than $10B (USD),Insurance
+157,36,"Berry Global, inc",Tom Salmon,1967,"more than 10,000",more than $10B (USD),Manufacturing
+158,37,World Wildlife Fund,Carter Roberts,1990,201 to 500,$100M to $500M (USD),Nonprofit & NGO
+159,38,AmeriCorps,Barbara Stewart,-1,"1001 to 5,000",-1,Government & Public Administration
+160,39,Bluefield Research,-1,-1,11 to 50,-1,-1
+161,40,FIS Global,Gary Norcross,-1,"more than 10,000",$5B to $10B (USD),Financial Services
+162,41,"Spirit Environmental, LLC",-1,-1,-1,-1,-1
+163,42,Charlotte's Web,-1,-1,-1,-1,-1
+164,43,Tetra Tech,Dan L. Batrack,1966,"more than 10,000",$1B to $5B (USD),Architectural & Engineering Services
+165,44,SEEML,-1,-1,less than 10,less than $1M (USD),-1
+166,45,Tesla,Elon Musk,2003,"more than 10,000",$5B to $10B (USD),Manufacturing
+167,46,"City of Columbia, MO",-1,-1,-1,-1,-1
+168,47,JLL,Christian Ulbrich,1985,"more than 10,000",more than $10B (USD),Real Estate
+169,48,"Page Southerland Page, Inc.",-1,1898,201 to 500,$100M to $500M (USD),Architectural & Engineering Services
+170,49,Exponent,-1,1967,"501 to 1,000",$100M to $500M (USD),Telecommunications
+171,50,University of Washington,Ana Mari Cauce,1861,"more than 10,000",$5M to $25M (USD),Education
+172,51,"Partner Energy, Inc.",-1,-1,-1,-1,-1
+173,52,"SI Group, Inc.",-1,-1,-1,-1,-1
+174,53,Live Nation,-1,-1,-1,-1,-1
+175,54,Red Bull,Dietrich Mateschitz,1987,"more than 10,000",$1B to $5B (USD),Manufacturing
+176,55,Nu Skin,-1,-1,-1,-1,Retail & Wholesale
+177,56,Concurrent Technologies Corporation,-1,-1,-1,-1,-1
+178,57,AECOM,-1,-1,-1,-1,-1
+179,58,BuroHappold Engineering,Neil Squibbs,1976,"1001 to 5,000",$100M to $500M (USD),Construction & Facilities Services
+180,59,HGA,-1,-1,"501 to 1,000",$100M to $500M (USD),Construction & Facilities Services
+181,60,Ads4Earth,-1,-1,-1,-1,Information Technology
+182,61,Gensler,-1,1965,"1001 to 5,000",$100M to $500M (USD),"Arts, Entertainment & Recreation"
+183,62,Fortinet,Ken Xie,2000,"1001 to 5,000",$1B to $5B (USD),Information Technology
+184,63,Water Resources Department,-1,-1,"5,001 to 10,000",-1,-1
+185,64,Hamer Environmental,-1,-1,-1,-1,-1
+186,65,Eiger Marketing,-1,-1,-1,-1,-1
+187,66,The Coca-Cola Company,James Quincey,1886,"more than 10,000",more than $10B (USD),Manufacturing
+188,67,Museum of Discovery and Science,-1,-1,51 to 200,$5M to $25M (USD),-1
+189,68,State of Tennessee,-1,-1,"more than 10,000",$1M to $5M (USD),Government & Public Administration
+190,69,Cambridge Associates LLC,-1,1973,"501 to 1,000",$100M to $500M (USD),Consulting and Business Services
+191,70,REI,Eric Artz,1938,"more than 10,000",$1B to $5B (USD),Retail & Wholesale
+192,71,Rinker Design Associates,-1,-1,-1,-1,-1
+193,72,Steelcase,Jim Keane,1912,"more than 10,000",$1B to $5B (USD),Shipping & Trucking
+194,73,APCO Worldwide,-1,1984,"501 to 1,000",$25M to $100M (USD),Media & Communication
+195,74,City of Lafayette,Lafayette City Council 2020,-1,201 to 500,-1,Government & Public Administration
+196,75,KPMG,Bill Thomas,1987,"more than 10,000",$1B to $5B (USD),Management & Consulting
+197,76,Ads4Earth,-1,-1,-1,-1,Information Technology
+198,77,Gensler,-1,1965,"1001 to 5,000",$100M to $500M (USD),"Arts, Entertainment & Recreation"
+199,78,"Eastern Research Group, Inc.",-1,-1,-1,-1,-1
+200,79,City of Lafayette,Lafayette City Council 2020,-1,201 to 500,-1,Government & Public Administration
+201,0,Amazon.com Services LLC,Jeff Bezos,1994,"more than 10,000",more than $10B (USD),Information Technology
+202,1,Holcim (US) Inc.,Jan Jenisch,1981,"more than 10,000",more than $10B (USD),Construction & Facilities Services
+203,2,Hamer Environmental,-1,-1,-1,-1,-1
+204,3,Jacobs,Steven J. Demetriou,1947,"more than 10,000",more than $10B (USD),Construction & Facilities Services
+205,4,AmeriCorps,Barbara Stewart,-1,"1001 to 5,000",-1,Government & Public Administration
+206,5,Argonne National Laboratory,-1,1946,less than 10,less than $1M (USD),Construction & Facilities Services
+207,6,"Nucor Steel Kankakee, Inc.",-1,1971,"more than 10,000",more than $10B (USD),Manufacturing
+208,7,ORAU,-1,-1,"501 to 1,000",-1,Nonprofit & NGO
+209,8,Huntsman,Peter Huntsman,1970,"more than 10,000",more than $10B (USD),Manufacturing
+210,9,State of Tennessee,-1,-1,"more than 10,000",$1M to $5M (USD),Government & Public Administration
+211,10,Lake Forest,-1,-1,-1,-1,-1
+212,11,Johnson Matthey,-1,1817,"more than 10,000",$1B to $5B (USD),Manufacturing
+213,12,City of Lafayette,Lafayette City Council 2020,-1,201 to 500,-1,Government & Public Administration
+214,13,PAC Worldwide,Jim Boshaw,-1,"1001 to 5,000",$100M to $500M (USD),Manufacturing
+215,14,Levi Strauss & Co.,-1,1853,"more than 10,000",$1B to $5B (USD),Retail & Wholesale
+216,15,University of Florida,-1,-1,-1,-1,-1
+217,16,"Association for Energy Affordability, Inc.",-1,-1,51 to 200,$5M to $25M (USD),-1
+218,17,LaBella Associates,-1,1978,-1,-1,-1
+219,18,Jacobs,Steven J. Demetriou,1947,"more than 10,000",more than $10B (USD),Construction & Facilities Services
+220,19,Mars,Grant F. Reid,1911,"more than 10,000",more than $10B (USD),Manufacturing
+221,20,Huntsman,-1,-1,-1,-1,-1
+222,21,City of Peoria,-1,-1,-1,-1,-1
+223,22,ENGIE Impact,Mathias Lelièvre,-1,"1001 to 5,000",-1,"Energy, Mining & Utilities"
+224,23,ORAU,-1,-1,-1,-1,-1
+225,24,Truist Financial,-1,1872,"more than 10,000",more than $10B (USD),Financial Services
+226,25,Colgate-Palmolive,Noel Wallace,1806,"more than 10,000",more than $10B (USD),Management & Consulting
+227,26,Dedham,-1,-1,-1,-1,-1
+228,27,ERM Group,-1,1971,"1001 to 5,000",$100M to $500M (USD),Management & Consulting
+229,28,US Bureau of Land Management,-1,-1,-1,-1,-1
+230,29,General Motors,Mary T. Barra,1908,"more than 10,000",more than $10B (USD),Automotive
+231,30,Microsoft,Satya Nadella,1975,"more than 10,000",more than $10B (USD),Information Technology
+232,31,"Montrose Environmental Group, Inc.",-1,2012,"501 to 1,000",$5M to $25M (USD),Architectural & Engineering Services
+233,32,Pratt & Whitney,Chris Calio,1925,"more than 10,000",more than $10B (USD),Electronics Manufacturing
+234,33,The Nature Conservancy,"Jennifer Morris, Chief Executive Officer ",1951,"1001 to 5,000",$500M to $1B (USD),Nonprofit & NGO
+235,34,MasterCard,-1,1966,"more than 10,000",$5B to $10B (USD),Financial Services
+236,35,Forestry Department,-1,-1,-1,-1,"Forestry, Logging & Timber Operations"
+237,36,University of Minnesota,Eric W. Kaler,1851,"more than 10,000",$1B to $5B (USD),Education
+238,37,ALDI,-1,-1,"more than 10,000",more than $10B (USD),Retail & Wholesale
+239,38,"Land O’Lakes, Inc.",-1,-1,-1,-1,-1
+240,39,The Boston Consulting Group,Rich Lesser,1963,"more than 10,000",$500M to $1B (USD),Management & Consulting
+241,40,Amazon.com Services LLC,Jeff Bezos,1994,"more than 10,000",more than $10B (USD),Information Technology
+242,41,WestRock,Steve Voorhees,2015,"more than 10,000",more than $10B (USD),Manufacturing
+243,42,Tuft & Needle,JT Marino & Daehee Park - Cofounders,2012,51 to 200,-1,Retail & Wholesale
+244,43,Green Bay Packaging,"William F. Kress, President",1933,"1001 to 5,000",$500M to $1B (USD),Manufacturing
+245,44,"Land O’Lakes, Inc.",-1,-1,-1,-1,-1
+246,45,Curaleaf,-1,-1,-1,-1,Retail & Wholesale
+247,46,Thornton Tomasetti.,-1,-1,-1,-1,-1
+248,47,Imperfect Foods,Philip Behn,2015,"1001 to 5,000",less than $1M (USD),Manufacturing
+249,48,City of Lowell,-1,1826,"1001 to 5,000",-1,Government & Public Administration
+250,49,SWCA Environmental Consultants,-1,1981,"501 to 1,000",$100M to $500M (USD),Consulting and Business Services
+251,50,Neiman Marcus,Geoffroy Van Raemdonck,1907,"1001 to 5,000",more than $10B (USD),Retail & Wholesale
+252,51,Levi Strauss & Co.,-1,1853,"more than 10,000",$1B to $5B (USD),Retail & Wholesale
+253,52,Southern Nevada Health District,-1,-1,"501 to 1,000",$25M to $100M (USD),Hospitals & Health Clinics
+254,53,New Seasons Market,Forrest Hoffmaster,1999,"1001 to 5,000",$100M to $500M (USD),Retail & Wholesale
+255,54,BSG,-1,-1,11 to 50,$1M to $5M (USD),-1
+256,55,Universal Leaf Tobacco Co. Inc.,-1,-1,-1,-1,-1
+257,56,Arcadia,Casey Journigan,1993,51 to 200,-1,Culture & Entertainment
+258,57,Lazard Ltd.,Ken Jacobs,1978,"1001 to 5,000",$1B to $5B (USD),Financial Services
+259,58,University of Washington,-1,-1,-1,-1,-1
+260,59,The Port Authority of New York and New Jersey,-1,1921,"5,001 to 10,000",$1B to $5B (USD),Transportation & Logistics
+261,60,Grainger,D.G. Macpherson,1927,"more than 10,000",more than $10B (USD),Manufacturing
+262,61,Forestry Department,-1,-1,-1,-1,"Forestry, Logging & Timber Operations"
+263,62,Jacobs,-1,-1,-1,-1,-1
+264,63,GSK,Emma Walmsley,1830,"more than 10,000",more than $10B (USD),Healthcare
+265,64,Fisker Inc,-1,-1,-1,-1,-1
+266,65,Stryker Corporation,Kevin Lobo,1941,"more than 10,000",more than $10B (USD),Healthcare
+267,66,Zeroshop.co,-1,-1,-1,-1,-1
+268,67,AmeriCorps,Barbara Stewart,-1,"1001 to 5,000",-1,Government & Public Administration
+269,68,GSK,Emma Walmsley,1830,"more than 10,000",more than $10B (USD),Healthcare
+270,69,Barclays,-1,1690,"more than 10,000",more than $10B (USD),Financial Services
+271,70,Duke Careers,-1,1838,"more than 10,000",$1B to $5B (USD),Education
+272,71,Microsoft,Satya Nadella,1975,"more than 10,000",more than $10B (USD),Information Technology
+273,72,The North Face,Steve Rendle,1966,"more than 10,000",$25M to $100M (USD),Retail & Wholesale
+274,73,GSK,Emma Walmsley,1830,"more than 10,000",more than $10B (USD),Healthcare
+275,74,ERM Group,-1,1971,"1001 to 5,000",$100M to $500M (USD),Management & Consulting
+276,75,University of Washington,-1,-1,-1,-1,-1
+277,76,Jacobs,Steven J. Demetriou,1947,"more than 10,000",more than $10B (USD),Construction & Facilities Services
+278,77,Amazon.com Services LLC,Jeff Bezos,1994,"more than 10,000",more than $10B (USD),Information Technology
+279,78,Grainger,D.G. Macpherson,1927,"more than 10,000",more than $10B (USD),Manufacturing
+280,79,Lazard Ltd.,Ken Jacobs,1978,"1001 to 5,000",$1B to $5B (USD),Financial Services
+281,80,AmeriCorps,Barbara Stewart,-1,"1001 to 5,000",-1,Government & Public Administration
+282,81,Fisker Inc,-1,-1,-1,-1,-1
+283,82,Arcadia,Casey Journigan,1993,51 to 200,-1,Culture & Entertainment
+284,83,GSK,Emma Walmsley,1830,"more than 10,000",more than $10B (USD),Healthcare
+285,84,Stryker Corporation,Kevin Lobo,1941,"more than 10,000",more than $10B (USD),Healthcare
+286,85,S&P Global,Douglas L. Peterson,-1,201 to 500,$25M to $100M (USD),Financial Services
+287,86,"The State Education Resource Center (SERC),",-1,-1,-1,-1,-1
+288,87,Healthstat,-1,2001,"501 to 1,000",$5M to $25M (USD),Healthcare
+289,88,Nu Skin,-1,-1,-1,-1,-1
+290,89,Stantec,Gord Johnston,1954,"more than 10,000",$1B to $5B (USD),"Energy, Mining & Utilities"
+291,90,Nestle USA,Steve Presley,1866,"more than 10,000",more than $10B (USD),Manufacturing
+292,91,The Earth Partners,-1,-1,-1,-1,-1
+293,92,State of New Mexico,Michelle Lujan Grisham,-1,"more than 10,000",-1,Government & Public Administration
+294,93,"CASCADIA CONSULTING GROUP, INC",-1,-1,11 to 50,$5M to $25M (USD),-1
+295,94,University of Washington,Ana Mari Cauce,1861,"more than 10,000",$5M to $25M (USD),Education
+296,95,Microsoft,Satya Nadella,1975,"more than 10,000",more than $10B (USD),Information Technology
+297,96,Guidehouse,Scott McIntyre,1996,"1001 to 5,000",$1B to $5B (USD),Healthcare
+298,97,McDonald's Corporate,Chris Kempczinski,1955,"more than 10,000",more than $10B (USD),Restaurants & Food Service
+299,98,VF Corporation,Steve Rendle,1899,"more than 10,000",more than $10B (USD),Retail & Wholesale
+300,99,Pottawattamie County,-1,-1,201 to 500,-1,Government & Public Administration
+301,100,State of Arizona,Doug Ducey,-1,"more than 10,000",more than $10B (USD),Government & Public Administration
+302,101,State of Nebraska,Governor Pete Ricketts,-1,"more than 10,000",-1,Government & Public Administration
+303,102,Stantec,Gord Johnston,1954,"more than 10,000",$1B to $5B (USD),"Energy, Mining & Utilities"
+304,103,"The State Education Resource Center (SERC),",-1,-1,-1,-1,-1
+305,104,Anheuser-Busch,Carlos Brito,1852,"more than 10,000",more than $10B (USD),Retail & Wholesale
+306,105,AmeriCorps,Barbara Stewart,-1,"1001 to 5,000",-1,Government & Public Administration
+307,106,AstraZeneca,Pascal Soriot,1913,"more than 10,000",more than $10B (USD),Pharmaceutical
+308,107,McDonald's Corporate,-1,-1,-1,-1,-1
+309,108,McDonald's Corporate,Chris Kempczinski,1955,"more than 10,000",more than $10B (USD),Restaurants & Food Service
+310,109,Nestle USA,Steve Presley,1866,"more than 10,000",more than $10B (USD),Manufacturing
+311,110,Tetra Tech,Dan L. Batrack,1966,"more than 10,000",$1B to $5B (USD),Architectural & Engineering Services
+312,111,Guidehouse,Scott McIntyre,1996,"1001 to 5,000",$1B to $5B (USD),Healthcare
+313,112,United Nations,António Guterres,1945,"more than 10,000",-1,Nonprofit & NGO
+314,113,"JELD-WEN, inc",Gary S Michel,1960,"more than 10,000",$1B to $5B (USD),Manufacturing
+315,114,"Kennametal, Inc.",-1,1938,"more than 10,000",$1B to $5B (USD),Manufacturing
+316,115,Rocky Mountain Institute,-1,-1,51 to 200,$25M to $100M (USD),Nonprofit & NGO
+317,116,Truluck's,-1,1991,201 to 500,$1M to $5M (USD),Restaurants & Food Service
+318,117,ONX,-1,2009,11 to 50,$1M to $5M (USD),Software Development
+319,118,Cooper Carry,-1,-1,-1,-1,-1
+320,119,"Amy's Kitchen, Inc.",-1,1988,"501 to 1,000",$100M to $500M (USD),Manufacturing
+321,120,State of Washington Dept. of Commerce,-1,-1,-1,-1,-1
+322,121,Filoli Historic House and Garden,-1,-1,-1,-1,-1
+323,122,CBTS,-1,-1,-1,-1,Primary & Secondary Schools
+324,123,High Meadow Farm,-1,-1,-1,-1,-1
+325,124,Georgia State University,-1,-1,"5,001 to 10,000",$100M to $500M (USD),Education
+326,125,BCD Travel Corporate,John Snyder,2006,"more than 10,000",more than $10B (USD),Information Technology Support Services
+327,126,Loanpal,Hayes Barnard,2014,"501 to 1,000",-1,Financial Services
+328,127,Evergreen State College,-1,1967,-1,-1,Education
+329,128,Courtyard Los Angeles Westside,-1,-1,11 to 50,-1,Hotels & Travel Accommodation
+330,129,Intel,Pat Gelsinger,1968,"more than 10,000",more than $10B (USD),Manufacturing
+331,130,AmeriCorps,Barbara Stewart,-1,"1001 to 5,000",-1,Government & Public Administration
+332,131,Google,Sundar Pichai,1998,"more than 10,000",more than $10B (USD),Information Technology
+333,132,Bayer,Werner Baumann,1863,"more than 10,000",more than $10B (USD),Pharmaceutical & Biotechnology
+334,133,Pfizer,"ALBERT BOURLA, DVM, PH.D.",1849,"more than 10,000",$5B to $10B (USD),Pharmaceutical & Biotechnology
+335,134,"Metric Environmental, LLC",-1,-1,11 to 50,less than $1M (USD),-1
+336,135,Washington River Protection Solutions (WRPS),-1,-1,-1,-1,-1
+337,136,Scientific Research Corporation,-1,1988,"1001 to 5,000",$100M to $500M (USD),Aerospace & Defense
+338,137,"Oceana, INC",-1,-1,-1,-1,Nursing Care Facilities
+339,138,RTI International,"E. Wayne Holden, PhD",1958,"1001 to 5,000",$500M to $1B (USD),Pharmaceutical
+340,139,Amazon.com Services LLC,Jeff Bezos,1994,"more than 10,000",more than $10B (USD),Information Technology
+341,140,National Renewable Energy Laboratory,-1,1978,"1001 to 5,000",-1,Government & Public Administration
+342,141,Logitech G,Bracken Darrell ,1981,"5,001 to 10,000",$1B to $5B (USD),Information Technology
+343,142,GreenWorks Environmental,-1,-1,-1,-1,-1
+344,143,Forestry Department,-1,-1,-1,-1,"Forestry, Logging & Timber Operations"
+345,144,TC Transcontinental,FRANÇOIS OLIVIER,-1,"1001 to 5,000",$100M to $500M (USD),Manufacturing
+346,145,University of Washington,Ana Mari Cauce,1861,"more than 10,000",$5M to $25M (USD),Education
+347,146,River Valley Market Llc,-1,-1,-1,-1,-1
+348,147,Stryker Corporation,Kevin Lobo,1941,"more than 10,000",more than $10B (USD),Healthcare
+349,148,TRIUMPH CSR ACQUISITION LLC,-1,-1,-1,-1,Education
+350,149,Tesla,Elon Musk,2003,"more than 10,000",$5B to $10B (USD),Manufacturing
+351,150,Goodfair,-1,-1,-1,-1,-1
+352,151,The Scotts Miracle-Gro Company,Jim Hagedorn,1868,"5,001 to 10,000",$1B to $5B (USD),Manufacturing
+353,152,Tommy Bahama,-1,-1,-1,-1,-1
+354,0,Tommy Bahama,佐々木貞夫,2012,"1001 to 5,000",$100M to $500M (USD),Retail & Wholesale
+355,1,Rocky Mountain Institute,-1,-1,51 to 200,$25M to $100M (USD),Nonprofit & NGO
+356,2,Truluck's,-1,1991,201 to 500,$1M to $5M (USD),Restaurants & Food Service
+357,3,ONX,-1,2009,11 to 50,$1M to $5M (USD),Software Development
+358,4,Cooper Carry,-1,-1,-1,-1,-1
+359,5,"Amy's Kitchen, Inc.",-1,1988,"501 to 1,000",$100M to $500M (USD),Manufacturing
+360,6,State of Washington Dept. of Commerce,-1,-1,-1,-1,-1
+361,7,Filoli Historic House and Garden,-1,-1,-1,-1,-1
+362,8,BRS,-1,-1,-1,-1,-1
+363,9,TRIUMPH CSR ACQUISITION LLC,-1,-1,-1,-1,Education
+364,10,SLR Consulting,-1,-1,-1,-1,-1
+365,11,Google,Sundar Pichai,1998,"more than 10,000",more than $10B (USD),Information Technology
+366,12,Sensata Technologies,"Jeff Cote, Chief Executive Officer & President",-1,"more than 10,000",$1B to $5B (USD),Manufacturing
+367,13,WestRock,Steve Voorhees,2015,"more than 10,000",more than $10B (USD),Manufacturing
+368,14,Peraton,Stu Shea,2017,"more than 10,000",$5B to $10B (USD),Aerospace & Defense
+369,15,"Aqua America, Inc.",-1,1968,"1001 to 5,000",$500M to $1B (USD),"Energy, Mining & Utilities"
+370,16,Thornton Tomasetti.,-1,-1,-1,-1,Consulting and Business Services
+371,17,Barclays,-1,1690,"more than 10,000",more than $10B (USD),Financial Services
+372,18,Fisker Inc,-1,-1,-1,-1,-1
+373,19,Benson Hill,-1,-1,-1,-1,-1
+374,20,Vista Outdoor,-1,2015,-1,-1,Manufacturing
+375,21,"The Cadmus Group, Inc.",-1,-1,-1,-1,-1
+376,22,AECOM,Michael S. Burke,2011,"more than 10,000",more than $10B (USD),Construction & Facilities Services
+377,23,Argonne National Laboratory,-1,1946,less than 10,less than $1M (USD),Construction & Facilities Services
+378,24,LIVEKINDLY,-1,-1,-1,-1,Advertising & Public Relations
+379,25,The Hershey Company,-1,1894,"more than 10,000",$5B to $10B (USD),Retail & Wholesale
+380,26,US Federal Highway Administration,-1,-1,-1,-1,-1
+381,27,Invenergy,-1,2001,51 to 200,$25M to $100M (USD),"Energy, Mining & Utilities"
+382,28,PayPal,Dan Schulman,1998,"more than 10,000",more than $10B (USD),Financial Services
+383,29,Lion Electric,-1,-1,51 to 200,-1,Construction & Facilities Services
+384,30,Johns Hopkins University,Ronald J. Daniels,1876,"more than 10,000",$1B to $5B (USD),Education
+385,31,Kroger General Office,Rodney McMullen,-1,"more than 10,000",more than $10B (USD),Retail & Wholesale
+386,32,Thrivent,Teresa (Terry) Rasmussen,1902,"5,001 to 10,000",$5B to $10B (USD),Insurance
+387,33,Weeks Marine Inc.,-1,1934,"1001 to 5,000",$500M to $1B (USD),-1
+388,34,Weston Foods,Luc Mongeau,1882,"5,001 to 10,000",$1B to $5B (USD),Retail & Wholesale
+389,35,DCR- Water Supply & Protection,-1,-1,-1,-1,-1
+390,36,World Wildlife Fund,Carter Roberts,1990,201 to 500,$100M to $500M (USD),Nonprofit & NGO
+391,37,The Coca-Cola Company,James Quincey,1886,"more than 10,000",more than $10B (USD),Manufacturing
+392,38,Benson Hill,-1,-1,-1,-1,-1
+393,39,Vista Outdoor,-1,2015,-1,-1,Manufacturing
+394,40,"The Cadmus Group, Inc.",-1,-1,-1,-1,-1
+395,41,AECOM,Michael S. Burke,2011,"more than 10,000",more than $10B (USD),Construction & Facilities Services
+396,42,Lufkin Industries,-1,-1,-1,-1,-1
+397,43,The Port Authority of New York and New Jersey,-1,1921,"5,001 to 10,000",$1B to $5B (USD),Transportation & Logistics
+398,44,Beyond Campus Innovations,-1,-1,less than 10,less than $1M (USD),Education
+399,45,WestRock,Steve Voorhees,2015,"more than 10,000",more than $10B (USD),Manufacturing
+400,46,Alcoa Corporation,-1,1888,"more than 10,000",more than $10B (USD),Manufacturing
+401,47,"Rincon Consultants, Inc",John Dreher,1994,201 to 500,$25M to $100M (USD),Consulting and Business Services
+402,48,ILIA Beauty,-1,-1,-1,-1,Beauty & Personal Accessories Stores
+403,49,TRC Companies Inc,Christopher P. Vincze,1969,"1001 to 5,000",$100M to $500M (USD),Management & Consulting
+404,50,The Wonderful Company LLC,Stewart Resnick,1980,"5,001 to 10,000",$1B to $5B (USD),"Construction, Repair & Facilities Services"
+405,51,Getinge,-1,-1,-1,-1,-1
+406,52,GreenCitizen,-1,-1,-1,-1,Transportation & Logistics
+407,53,Barclays,-1,1690,"more than 10,000",more than $10B (USD),Banks and Financial Services
+408,54,Summersalt,-1,-1,-1,-1,-1
+409,55,Microsoft,Satya Nadella,1975,"more than 10,000",more than $10B (USD),Information Technology
+410,56,New Avenue,-1,-1,less than 10,less than $1M (USD),-1
+411,57,Starbucks,Kevin Johnson,1971,"more than 10,000",more than $10B (USD),Restaurants & Food Service
+412,58,Gartner,Gene Hall,1979,"more than 10,000",$1B to $5B (USD),Agriculture
+413,59,EBP US,-1,-1,-1,-1,-1
+414,60,"CASCADIA CONSULTING GROUP, INC",-1,-1,11 to 50,$5M to $25M (USD),-1
+415,61,The Rock Creek Group,-1,-1,11 to 50,$5M to $25M (USD),-1
+416,62,BD,Tom Polen ,1897,"more than 10,000",more than $10B (USD),Healthcare
+417,63,FIBERTEC ENVIRONMENTAL SERVICES,-1,-1,-1,-1,Biotechnology
+418,64,TC Transcontinental,FRANÇOIS OLIVIER,-1,"1001 to 5,000",$100M to $500M (USD),Manufacturing
+419,65,"Meridian Consulting, LLC",-1,-1,-1,-1,-1
+420,66,Eckberg Lammers,-1,-1,11 to 50,$1M to $5M (USD),-1
+421,67,3M,Mike Roman,1902,"more than 10,000",more than $10B (USD),Manufacturing
+422,68,University of Alabama at Birmingham,-1,-1,"more than 10,000",$1B to $5B (USD),Education
+423,69,WestRock Devens,-1,-1,-1,-1,Wood & Paper Manufacturing
+424,70,WestRock,-1,-1,-1,-1,-1
+425,71,LANXESS,Matthias Zachert,2004,"more than 10,000",$5B to $10B (USD),Manufacturing
+426,72,Lime,-1,-1,11 to 50,-1,Information Technology
+427,73,ERM Group,-1,1971,"1001 to 5,000",$100M to $500M (USD),Management & Consulting
+428,74,"WeDriveU, Inc.",Dennis Carlson,1988,"1001 to 5,000",-1,Transportation & Logistics
+429,75,Miller Coors,Gavin Hattersley,1774,"more than 10,000",$1B to $5B (USD),Manufacturing
+430,76,Altura Associates,-1,-1,-1,-1,-1
+431,77,Sealed Air Corporation,-1,1960,"more than 10,000",$1B to $5B (USD),Manufacturing
+432,78,The Rector & Visitors of the University of Virgini...,-1,-1,-1,-1,-1
+433,79,JM Huber Corporation,-1,-1,-1,-1,Manufacturing
+434,80,ICF,John Wasson,1969,"5,001 to 10,000",$1B to $5B (USD),Management & Consulting
+435,81,Indigo,Mr Serge CLEMENTE,-1,"1001 to 5,000",-1,Bars & Nightclubs
+436,82,PepsiCo,Ramon Laguarta,1965,"more than 10,000",more than $10B (USD),Manufacturing
+437,83,BOEING,David Calhoun,1916,"more than 10,000",more than $10B (USD),Aerospace & Defense
+438,84,"Blackberry Farm, LLC",-1,2021,less than 10,less than $1M (USD),"Restaurants, Travel and Leisure"
+439,85,Convent of the Sacred Heart,-1,1881,51 to 200,$5M to $25M (USD),-1
+440,86,Caesars Entertainment,Tom Reeg,-1,"more than 10,000",$5B to $10B (USD),Restaurants & Food Service
+441,87,New Leaf Community Markets,Wendy Collie,1985,"1001 to 5,000",$25M to $100M (USD),Retail & Wholesale
+442,88,WestRock,Steve Voorhees,2015,"more than 10,000",more than $10B (USD),Manufacturing
+443,89,The Wonderful Company LLC,Stewart Resnick,1980,"5,001 to 10,000",$1B to $5B (USD),"Construction, Repair & Facilities Services"
+444,90,Harris Computer Systems,Jeff Bender,1976,"1001 to 5,000",$500M to $1B (USD),Information Technology
+445,91,Wood Plc,Robin Watson,-1,"more than 10,000",more than $10B (USD),"Energy, Mining & Utilities"
+446,92,Molina Healthcare,Joseph M. Zubretsky,1980,"more than 10,000",more than $10B (USD),Insurance
+447,93,ERM Group,-1,1971,"1001 to 5,000",$100M to $500M (USD),Management & Consulting
+448,94,Autodesk,Andrew Anagnost,1982,"5,001 to 10,000",$1B to $5B (USD),Information Technology
+449,95,"ENTACT, LLC",-1,-1,201 to 500,-1,Construction & Facilities Services
+450,96,Hart-to-Hart Farm & Education Center,-1,-1,-1,-1,-1
+451,97,Plastipak Packaging Inc.,-1,1967,"5,001 to 10,000",$1B to $5B (USD),Manufacturing
+452,98,Insight Pest Solutions,-1,2011,51 to 200,$5M to $25M (USD),"Construction, Repair & Facilities Services"
+453,99,3M,Mike Roman,1902,"more than 10,000",more than $10B (USD),Manufacturing
+454,100,"Meridian Consulting, LLC",-1,-1,-1,-1,-1
+455,101,"Land O’Lakes, Inc.",-1,-1,-1,-1,-1
+456,102,"Midlab, Inc.",-1,-1,51 to 200,$25M to $100M (USD),-1
+457,103,"Satco, Inc.",-1,-1,-1,-1,Banking & Lending
+458,104,"Montrose Environmental Group, Inc.",-1,2012,"501 to 1,000",$5M to $25M (USD),Architectural & Engineering Services
+459,105,Grant Thornton,-1,1904,"5,001 to 10,000",$1B to $5B (USD),Accounting & Tax
+460,106,Sodexo,Denis Machuel,1966,"more than 10,000",$100M to $500M (USD),Restaurants & Food Service
+461,107,Beyond Meat,-1,2009,less than 10,$1M to $5M (USD),Catering & Food Service Contractors
+462,108,"PERIMETER SOLUTIONS, LP",-1,-1,-1,-1,-1
+463,109,Wyndham Destinations,Michael D. Brown,-1,"more than 10,000",$1B to $5B (USD),Hotels & Travel Accommodation
+464,110,Underwriters Laboratories Inc.,Jennifer Scanlon,1894,"more than 10,000",$1B to $5B (USD),Security & Protective
+465,111,Burns & McDonnell,-1,1898,"5,001 to 10,000",$1B to $5B (USD),Construction & Facilities Services
+466,112,New Jersey Institute of Technology,-1,1881,"1001 to 5,000",$100M to $500M (USD),Education
+467,113,City of Ventura,-1,-1,"1001 to 5,000",-1,Government & Public Administration
+468,114,Mott MacDonald,-1,1989,"more than 10,000",$1B to $5B (USD),Consulting and Business Services
+469,115,Diocese of Saginaw,-1,-1,-1,-1,-1
+470,116,Rivian Automotive,-1,2009,-1,-1,Vehicle Manufacturing
+471,117,"City of Oceanside, CA",-1,-1,-1,-1,Government & Public Administration
+472,118,Chipotle,Brian Niccol,1993,"more than 10,000",$1B to $5B (USD),Restaurants & Food Service
+473,119,Microsoft,Satya Nadella,1975,"more than 10,000",more than $10B (USD),Information Technology
+474,120,stok,-1,2008,11 to 50,less than $1M (USD),Real Estate
+475,121,Rocky Mountain Institute,-1,-1,51 to 200,$25M to $100M (USD),Nonprofit & NGO
+476,122,Grand Teton Lodge Company,Rob Katz,1962,"more than 10,000",$1B to $5B (USD),Hotels & Travel Accommodation
+477,123,City of Ann Arbor,-1,-1,-1,-1,Government & Public Administration
+478,124,Oregon Health & Science University,-1,1887,"more than 10,000",$1B to $5B (USD),Education
+479,125,HealthPartners,Andrea Walsh,1984,"more than 10,000",$1B to $5B (USD),Healthcare
+480,126,Bill & Melinda Gates Foundation,-1,1997,"1001 to 5,000",less than $1M (USD),Healthcare
+481,127,ESC Polytech Consultants,-1,-1,-1,-1,-1
+482,128,Oneida ESC Group,-1,-1,-1,-1,-1
+483,129,World Resources Institute,-1,1982,51 to 200,$25M to $100M (USD),Nonprofit & NGO
+484,130,WSP USA,Alexandre L’Heureux,1959,"5,001 to 10,000",$1B to $5B (USD),Architectural & Engineering Services
+485,131,Government of the District of Columbia,-1,-1,"5,001 to 10,000",$100M to $500M (USD),Government & Public Administration
+486,132,Advocate Aurora Health,Nick Turkal | Jim Skogsbergh,2018,"more than 10,000",more than $10B (USD),Healthcare
+487,133,ICF,John Wasson,1969,"5,001 to 10,000",$1B to $5B (USD),Management & Consulting
+488,134,The Coffee Bean & Tea Leaf,-1,1963,"1001 to 5,000",$100M to $500M (USD),Restaurants & Food Service
+489,135,Columbia University,-1,1938,"more than 10,000",$1B to $5B (USD),Education
+490,136,Golden State Foods,-1,1947,"1001 to 5,000",$100M to $500M (USD),Manufacturing
+491,137,Public Health Advocates,-1,-1,-1,-1,-1
+492,138,H&M,Helena Helmersson,1947,"more than 10,000",more than $10B (USD),Retail & Wholesale
+493,139,Stryker Corporation,Kevin Lobo,1941,"more than 10,000",more than $10B (USD),Healthcare
+494,140,State of Missouri,Governor Mike Parson,-1,"1001 to 5,000",-1,Government & Public Administration
+495,141,University of California - Irvine,-1,1965,"more than 10,000",$1B to $5B (USD),Education
+496,142,AmeriCorps,Barbara Stewart,-1,"1001 to 5,000",-1,Government & Public Administration
+497,143,Stryker Corporation,Kevin Lobo,1941,"more than 10,000",more than $10B (USD),Healthcare
+498,144,David Energy,-1,-1,-1,-1,-1
+499,145,Rinker Design Associates,-1,-1,-1,-1,-1
+500,146,Council of the Great Lakes Region,-1,-1,-1,-1,-1
+501,147,CVS Health,"Karen S. Lynch, President & ",1963,"more than 10,000",more than $10B (USD),Healthcare
+502,148,Neiman Marcus,Geoffroy Van Raemdonck,1907,"1001 to 5,000",more than $10B (USD),Retail & Wholesale
+503,149,Rinker Design Associates,-1,-1,-1,-1,-1
+504,150,Council of the Great Lakes Region,-1,-1,-1,-1,-1
+505,151,CVS Health,"Karen S. Lynch, President & ",1963,"more than 10,000",more than $10B (USD),Healthcare
+506,152,Neiman Marcus,Geoffroy Van Raemdonck,1907,"1001 to 5,000",more than $10B (USD),Retail & Wholesale
+507,153,Neiman Marcus,Geoffroy Van Raemdonck,1907,"1001 to 5,000",more than $10B (USD),Retail & Wholesale
+508,154,City of Peoria,-1,-1,less than 10,-1,Government & Public Administration
+509,155,World Bank Group,-1,1945,"1001 to 5,000",-1,Financial Services
+510,156,Kraft Heinz Company,Miguel Patricio,2015,"more than 10,000",more than $10B (USD),Manufacturing
+511,157,"Alteryx, Inc.",Mark Anderson,2010,"1001 to 5,000",$100M to $500M (USD),Information Technology
+512,158,Amazon.com Services LLC,Jeff Bezos,1994,"more than 10,000",more than $10B (USD),Information Technology
+513,159,Clean Power Alliance,-1,-1,-1,-1,"Energy, Mining & Utilities"
+514,160,Batory Foods,-1,-1,201 to 500,-1,Food & Beverage Manufacturing
+515,161,University of Wisconsin - Oshkosh,-1,1871,11 to 50,$1M to $5M (USD),Education
+516,162,Tiffany & Co.,Anthony Ledru,1837,"more than 10,000",$1B to $5B (USD),Retail & Wholesale
+517,163,Tiffany & Co.,Anthony Ledru,1837,"more than 10,000",$1B to $5B (USD),Retail & Wholesale
+518,164,University of Washington,Ana Mari Cauce,1861,"more than 10,000",$5M to $25M (USD),Education
+519,165,Toshiba International Corporation,-1,1939,"more than 10,000",more than $10B (USD),Electronics Manufacturing
+520,166,Mars,Grant F. Reid,1911,"more than 10,000",more than $10B (USD),Manufacturing
+521,167,"POWER Engineers, Inc.",-1,1976,"1001 to 5,000",$500M to $1B (USD),"Energy, Mining & Utilities"
+522,168,Tighe & Bond,-1,-1,201 to 500,$25M to $100M (USD),Architectural & Engineering Services
+523,169,PUMA,Björn Gulden,1948,"more than 10,000",$1B to $5B (USD),Retail & Wholesale
+524,170,"Blackberry Farm, LLC",-1,2021,less than 10,less than $1M (USD),"Restaurants, Travel and Leisure"
+525,171,NextEra Energy,James L. Robo,1925,"more than 10,000",$1B to $5B (USD),"Energy, Mining & Utilities"
+526,172,Abbvie,Richard A. Gonzalez,2013,"more than 10,000",more than $10B (USD),Pharmaceutical & Biotechnology
+527,173,UnitedHealth Group,-1,-1,-1,-1,-1
+528,174,Association of Independents in Radio (AIR),-1,-1,-1,-1,Civic & Social Services
+529,175,DiaSorin,Carlo Rosa,1968,"1001 to 5,000",-1,Healthcare
+530,176,Aerion Corporation,-1,2002,11 to 50,less than $1M (USD),Aerospace & Defense
+531,177,Occidental Petroleum Corporation,-1,1920,"more than 10,000",more than $10B (USD),-1
+532,178,Forestry Department,-1,-1,-1,-1,"Forestry, Logging & Timber Operations"
+533,179,Occidental Petroleum Corporation,-1,1920,"more than 10,000",more than $10B (USD),-1
+534,180,Forestry Department,-1,-1,-1,-1,"Forestry, Logging & Timber Operations"
+535,181,Apple,Tim Cook,1976,"more than 10,000",more than $10B (USD),Manufacturing
+536,182,Amazon.com Services LLC,Jeff Bezos,1994,"more than 10,000",more than $10B (USD),Information Technology
+537,183,KBR,-1,1901,"more than 10,000",$5B to $10B (USD),Aerospace & Defense
+538,184,"Disney Parks, Experiences and Products",-1,1901,"more than 10,000",$1B to $5B (USD),Hotels & Travel Accommodation
+539,185,"Beacon Economics, LLC",-1,-1,11 to 50,less than $1M (USD),Management & Consulting
+540,186,AECOM,Michael S. Burke,2011,"more than 10,000",more than $10B (USD),Construction & Facilities Services
+541,187,City of Sunrise,-1,1961,"1001 to 5,000",-1,Government & Public Administration
+542,188,Argonne National Laboratory,-1,1946,less than 10,less than $1M (USD),Construction & Facilities Services
+543,189,Resource Environmental Solutions LLC,Darrell Whitley,-1,"501 to 1,000",-1,Construction & Facilities Services
+544,190,"Counterpart International, Inc.",-1,-1,-1,-1,-1
+545,191,Vulcan Inc.,-1,1986,201 to 500,$25M to $100M (USD),Manufacturing
+546,192,Rare,-1,1984,11 to 50,$5M to $25M (USD),Nonprofit & NGO
+547,193,Northeastern University,-1,-1,-1,-1,-1
+548,194,MetLife,Steven A. Kandarian,1868,"more than 10,000",more than $10B (USD),Insurance
+549,195,BayCare,Tommy Inzina,1997,"more than 10,000",$100M to $500M (USD),Healthcare
+550,196,Edelman,-1,-1,less than 10,$100M to $500M (USD),Wholesale
+551,197,Jacob Burns Film Center,-1,2001,11 to 50,$5M to $25M (USD),Culture & Entertainment
+552,198,Taco Bell,Mark King,1962,"more than 10,000",more than $10B (USD),Restaurants & Food Service
+553,199,Gensler,-1,1965,"1001 to 5,000",$100M to $500M (USD),"Arts, Entertainment & Recreation"
+554,200,Gloria Ferrer,-1,1986,51 to 200,-1,-1
+555,201,AECOM,Michael S. Burke,2011,"more than 10,000",more than $10B (USD),Construction & Facilities Services
+556,202,Cleantech Group,-1,-1,-1,-1,-1
+557,203,WestRock,Steve Voorhees,2015,"more than 10,000",more than $10B (USD),Manufacturing
+558,204,US Surface Transportation Board,-1,-1,-1,-1,-1
+559,205,New Mexico State University,-1,1888,"1001 to 5,000",$100M to $500M (USD),Education
+560,206,Enervee,-1,2010,11 to 50,$1M to $5M (USD),-1
+561,207,Essilor,-1,-1,-1,-1,-1
+562,208,State of Georgia,-1,-1,"1001 to 5,000",-1,Government & Public Administration
+563,209,River Valley Market Llc,-1,-1,-1,-1,-1
+564,210,Stryker Corporation,Kevin Lobo,1941,"more than 10,000",more than $10B (USD),Healthcare
+565,211,TRIUMPH CSR ACQUISITION LLC,-1,-1,-1,-1,Education
+566,212,Tesla,Elon Musk,2003,"more than 10,000",$5B to $10B (USD),Manufacturing
+567,213,Goodfair,-1,-1,-1,-1,-1
+568,214,The Scotts Miracle-Gro Company,Jim Hagedorn,1868,"5,001 to 10,000",$1B to $5B (USD),Manufacturing
+569,215,Tommy Bahama,佐々木貞夫,2012,"1001 to 5,000",$100M to $500M (USD),Retail & Wholesale
+570,216,Rocky Mountain Institute,-1,-1,51 to 200,$25M to $100M (USD),Nonprofit & NGO
+571,217,Truluck's,-1,1991,201 to 500,$1M to $5M (USD),Restaurants & Food Service
+572,218,ONX,-1,2009,11 to 50,$1M to $5M (USD),Software Development
+573,219,Charitable Ventures,-1,-1,-1,-1,Civic & Social Services
+574,220,"Land O’Lakes, Inc.",-1,-1,-1,-1,-1
+575,221,CR&R Inc,-1,-1,"1001 to 5,000",$100M to $500M (USD),"Energy, Mining & Utilities"
+576,222,Sea Bags,-1,-1,-1,-1,Retail & Wholesale
+577,223,Sims Metal Management,-1,1917,"5,001 to 10,000",$5B to $10B (USD),Metal & Mineral Manufacturing
+578,224,Siegwerk,-1,1824,-1,-1,Chemical Manufacturing
+579,225,3M,Mike Roman,1902,"more than 10,000",more than $10B (USD),Manufacturing
+580,226,NBCUniversal,Steve Burke,1989,"more than 10,000",$5M to $25M (USD),Media & Communication
+581,227,"Marriott International, Inc",Tony Capuano ,1980,"more than 10,000",more than $10B (USD),Hotels & Travel Accommodation
+582,228,Forestry Department,-1,-1,-1,-1,"Forestry, Logging & Timber Operations"
+583,229,Exponent,-1,1967,"501 to 1,000",$100M to $500M (USD),Telecommunications
+584,230,The Coca-Cola Company,James Quincey,1886,"more than 10,000",more than $10B (USD),Manufacturing
+585,231,Stryker Corporation,Kevin Lobo,1941,"more than 10,000",more than $10B (USD),Healthcare
+586,232,General Motors,Mary T. Barra,1908,"more than 10,000",more than $10B (USD),Automotive
+587,233,Umatilla County,-1,-1,-1,-1,-1
+588,234,University of Washington,Ana Mari Cauce,1861,"more than 10,000",$5M to $25M (USD),Education
+589,235,World Resources Institute,-1,1982,51 to 200,$25M to $100M (USD),Nonprofit & NGO
+590,236,Ericsson,Börje Ekholm,1992,"more than 10,000",-1,Telecommunications
+591,237,Facebook,Mark Zuckerberg,2004,"more than 10,000",more than $10B (USD),Information Technology
+592,238,SC Johnson,H. Fisk Johnson,1886,"more than 10,000",$5B to $10B (USD),Manufacturing
+593,239,"City of Hampton, VA",-1,-1,"1001 to 5,000",-1,Government & Public Administration
+594,240,Penn State University,Eric J. Barron,1855,"more than 10,000",$5B to $10B (USD),Education
+595,241,Burlington Public Schools,-1,-1,201 to 500,-1,Education
+596,242,Rivian Automotive,-1,2009,-1,-1,Vehicle Manufacturing
+597,243,"Sheladia Associates, Inc.",-1,-1,-1,-1,-1
+598,244,"Diversey, Inc.",Phil Wieland,-1,"5,001 to 10,000",$1B to $5B (USD),Manufacturing
+599,245,ORAU,-1,-1,"501 to 1,000",-1,Nonprofit & NGO
+600,246,Stanford University,Marc Tessier-Lavigne,1891,"more than 10,000",-1,Education
+601,247,Goby Inc,-1,-1,-1,-1,-1
+602,248,Denver Museum of Nature & Science,-1,-1,201 to 500,-1,Nonprofit & NGO
+603,249,Trimble,-1,1979,51 to 200,$25M to $100M (USD),Telecommunications
+604,250,Apple,Tim Cook,1976,"more than 10,000",more than $10B (USD),Manufacturing
+605,251,WestRock,Steve Voorhees,2015,"more than 10,000",more than $10B (USD),Manufacturing
+606,252,Neiman Marcus,Geoffroy Van Raemdonck,1907,"1001 to 5,000",more than $10B (USD),Retail & Wholesale
+607,253,WestRock,-1,-1,-1,-1,-1
+608,254,LG Vehicle Components,-1,-1,-1,-1,-1
+609,255,University of Washington,Ana Mari Cauce,1861,"more than 10,000",$5M to $25M (USD),Education
+610,256,"McCain Foods USA, Inc.",-1,1957,"more than 10,000",$5B to $10B (USD),Manufacturing
+611,257,Southwire,Rich Stinson,1950,"5,001 to 10,000",$1B to $5B (USD),Manufacturing
+612,258,Steelcase,Jim Keane,1912,"more than 10,000",$1B to $5B (USD),Shipping & Trucking
+613,259,PPG Industries,Michael H. McGarry,1883,"more than 10,000",more than $10B (USD),Manufacturing
+614,260,Anheuser-Busch,Carlos Brito,1852,"more than 10,000",more than $10B (USD),Retail & Wholesale
+615,261,Sound Agriculture,-1,-1,-1,-1,Crop Production
+616,262,Kings Dominion,Richard Zimmerman,1975,"1001 to 5,000",$1M to $5M (USD),Event Services
+617,263,University of Washington,Ana Mari Cauce,1861,"more than 10,000",$5M to $25M (USD),Education
+618,264,City of Tucson,-1,1877,"5,001 to 10,000",-1,Government & Public Administration
+619,265,National Renewable Energy Laboratory,-1,1978,"1001 to 5,000",-1,Government & Public Administration
+620,266,Salesforce,Marc Benioff,1999,"more than 10,000",more than $10B (USD),Information Technology
+621,267,Nouryon,-1,-1,"5,001 to 10,000",$5B to $10B (USD),Manufacturing
+622,268,Honeywell,Darius Adamczyk,1885,"more than 10,000",more than $10B (USD),Manufacturing
+623,269,GreenPrint,-1,-1,-1,-1,-1
+624,270,Cummins Inc.,Tom Linebarger,1919,"more than 10,000",more than $10B (USD),Manufacturing
+625,271,Humana,Humana  Bruce Broussard,1961,"more than 10,000",more than $10B (USD),Healthcare
+626,272,Kent State University,-1,1910,"5,001 to 10,000",$100M to $500M (USD),Education
+627,273,FMC Corporation,-1,1883,"1001 to 5,000",$1B to $5B (USD),"Energy, Mining & Utilities and manufacturing"
+628,274,Neiman Marcus,Geoffroy Van Raemdonck,1907,"1001 to 5,000",more than $10B (USD),Retail & Wholesale
+629,275,Getinge,-1,-1,"more than 10,000",$1B to $5B (USD),Healthcare
+630,276,National Renewable Energy Laboratory,-1,1978,"1001 to 5,000",-1,Government & Public Administration
+631,277,New York Power Authority,-1,1931,"1001 to 5,000",$1B to $5B (USD),"Energy, Mining & Utilities"
+632,278,Agri Beef Co.,-1,1968,"501 to 1,000",$100M to $500M (USD),Agriculture
+633,279,Fanatics Inc.,Doug Mack,1996,"1001 to 5,000",$100M to $500M (USD),Retail & Wholesale
+634,280,Central Coast Agriculture,-1,-1,-1,-1,Agriculture
+635,281,Beyond Meat,-1,2009,less than 10,$1M to $5M (USD),Catering & Food Service Contractors
+636,282,Symetra,Margaret. Meister - President and Chief Executive ,2004,"1001 to 5,000",$1B to $5B (USD),Insurance
+637,283,Smithfield Foods,Dennis Organ,1936,"more than 10,000",more than $10B (USD),Manufacturing
+638,284,Hines,-1,-1,-1,-1,-1
+639,285,Symetra,Margaret. Meister - President and Chief Executive ,2004,"1001 to 5,000",$1B to $5B (USD),Insurance
+640,286,Sack Properties,-1,-1,11 to 50,-1,Property Management
+641,287,Rhythm,-1,-1,11 to 50,$5M to $25M (USD),Information Technology
+642,0,Free Flow Wines,-1,2009,less than 10,$5M to $25M (USD),Food & Beverage Manufacturing
+643,1,"Satco, Inc.",-1,-1,-1,-1,Banking & Lending
+644,2,Planta,-1,-1,-1,-1,-1
+645,3,Tom's of Maine,-1,2006,51 to 200,$25M to $100M (USD),-1
+646,4,CRH,-1,-1,-1,-1,"Construction, Repair & Facilities Services"
+647,5,Brodie Builders,-1,-1,-1,-1,Architectural & Engineering Services
+648,6,3M,-1,-1,-1,-1,-1
+649,7,ERM Group,-1,1971,"1001 to 5,000",$100M to $500M (USD),Management & Consulting
+650,8,City of Boston,Marty Walsh,1630,"more than 10,000",-1,Government & Public Administration
+651,9,Peraton,Stu Shea,2017,"more than 10,000",$5B to $10B (USD),Aerospace & Defense
+652,10,Cummins Inc.,Tom Linebarger,1919,"more than 10,000",more than $10B (USD),Manufacturing
+653,11,University of California - Irvine,-1,1965,"more than 10,000",$1B to $5B (USD),Education
+654,12,"Steven Winter Associates, Inc.",-1,1972,51 to 200,$5M to $25M (USD),-1
+655,13,JLL,Christian Ulbrich,1985,"more than 10,000",more than $10B (USD),Real Estate
+656,14,Curaleaf,-1,-1,-1,-1,Retail & Wholesale
+657,15,"Agilent Technologies, Inc.",Mike McMullen,1999,"more than 10,000",$1B to $5B (USD),Healthcare
+658,16,Yum! Brands,David Gibbs,1997,"1001 to 5,000",$1B to $5B (USD),Restaurants & Food Service
